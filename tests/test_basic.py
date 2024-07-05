@@ -1,7 +1,7 @@
 import unittest, sys
 
 sys.path.append('../SEOdeploy') # imports python file from parent directory
-from main_py_file_name import app #imports flask app object
+from practice import app #imports flask app object
 
 class BasicTests(unittest.TestCase):
 
